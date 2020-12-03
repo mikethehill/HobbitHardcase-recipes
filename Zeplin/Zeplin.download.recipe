@@ -13,7 +13,7 @@
 		<key>NAME</key>
 		<string>Zeplin</string>
 		<key>SPARKLE_FEED_URL</key>
-		<string>https://rink.hockeyapp.net/api/2/apps/8926efffe734b6d303d09f41d90c34fc</string>
+		<string>https://api.appcenter.ms/v0.1/public/sparkle/apps/8926efff-e734-b6d3-03d0-9f41d90c34fc</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
